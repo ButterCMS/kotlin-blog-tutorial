@@ -2,7 +2,7 @@
 Building a Cross-Platform Blog App with Kotlin and ButterCMS
 
 ## Important Note
-This project was created as an example use case of ButterCMS in conjunction with a blog article, <LINK TO BLOG ARTICLE>, and will not be actively maintained.
+This project was created as an example use case of ButterCMS in conjunction with a blog article, [Deep Dive into Building a Cross-Platform Blog App with Kotlin and ButterCMS](https://buttercms.com/blog/how-to-build-a-cross-platform-blog-app-with-kotlin/), and will not be actively maintained.
 
 If you're interested in exploring the best, most up-to-date way to integrate Butter into Kotlin Projects, you can check out the following resources:
 
